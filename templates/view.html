@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>View Posts</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <nav>
+        <a href="{{ url_for('create') }}">Create Blog</a>
+        <a href="{{ url_for('logout') }}">Logout</a>
+    </nav>
+    <div class="posts-container">
+        {% for post in posts %}
+            <div class="post">
+                <h2>{{ post.title }}</h2>
+                <p>{{ post.content }}</p>
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
