@@ -1,3 +1,8 @@
 myenv
 __pycache__
 myblog.sock
+myblog.py
+script.py
+wsgi.py
+
+
