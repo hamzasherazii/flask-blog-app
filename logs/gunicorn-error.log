@@ -1,0 +1,2389 @@
+[2024-06-30 08:35:38 +0000] [714623] [INFO] Starting gunicorn 22.0.0
+[2024-06-30 08:35:38 +0000] [714623] [INFO] Listening at: http://0.0.0.0:8000 (714623)
+[2024-06-30 08:35:38 +0000] [714623] [INFO] Using worker: sync
+[2024-06-30 08:35:38 +0000] [714624] [INFO] Booting worker with pid: 714624
+[2024-06-30 08:35:38 +0000] [714625] [INFO] Booting worker with pid: 714625
+[2024-06-30 08:35:38 +0000] [714626] [INFO] Booting worker with pid: 714626
+[2024-06-30 08:37:24 +0000] [714623] [INFO] Handling signal: int
+[2024-06-30 08:37:24 +0000] [714625] [INFO] Worker exiting (pid: 714625)
+[2024-06-30 08:37:24 +0000] [714626] [INFO] Worker exiting (pid: 714626)
+[2024-06-30 08:37:25 +0000] [714623] [INFO] Shutting down: Master
+[2024-06-30 08:38:09 +0000] [714634] [INFO] Starting gunicorn 22.0.0
+[2024-06-30 08:38:09 +0000] [714634] [INFO] Listening at: http://0.0.0.0:8000 (714634)
+[2024-06-30 08:38:09 +0000] [714634] [INFO] Using worker: sync
+[2024-06-30 08:38:09 +0000] [714635] [INFO] Booting worker with pid: 714635
+[2024-06-30 08:38:09 +0000] [714636] [INFO] Booting worker with pid: 714636
+[2024-06-30 08:38:09 +0000] [714637] [INFO] Booting worker with pid: 714637
+[2024-06-30 08:42:02 +0000] [714634] [INFO] Handling signal: int
+[2024-06-30 08:42:02 +0000] [714636] [INFO] Worker exiting (pid: 714636)
+[2024-06-30 08:42:02 +0000] [714637] [INFO] Worker exiting (pid: 714637)
+[2024-06-30 08:42:03 +0000] [714634] [INFO] Shutting down: Master
+[2024-06-30 08:43:54 +0000] [714701] [INFO] Starting gunicorn 22.0.0
+[2024-06-30 08:43:54 +0000] [714701] [INFO] Listening at: http://0.0.0.0:5000 (714701)
+[2024-06-30 08:43:54 +0000] [714701] [INFO] Using worker: sync
+[2024-06-30 08:43:54 +0000] [714702] [INFO] Booting worker with pid: 714702
+[2024-06-30 08:43:54 +0000] [714703] [INFO] Booting worker with pid: 714703
+[2024-06-30 08:43:54 +0000] [714704] [INFO] Booting worker with pid: 714704
+[2024-06-30 08:45:03 +0000] [714701] [INFO] Handling signal: int
+[2024-06-30 08:45:03 +0000] [714703] [INFO] Worker exiting (pid: 714703)
+[2024-06-30 08:45:03 +0000] [714702] [INFO] Worker exiting (pid: 714702)
+[2024-06-30 08:45:03 +0000] [714704] [INFO] Worker exiting (pid: 714704)
+[2024-06-30 08:45:04 +0000] [714701] [INFO] Shutting down: Master
+[2024-06-30 08:47:30 +0000] [714725] [INFO] Starting gunicorn 22.0.0
+[2024-06-30 08:47:30 +0000] [714725] [INFO] Listening at: http://0.0.0.0:5000 (714725)
+[2024-06-30 08:47:30 +0000] [714725] [INFO] Using worker: sync
+[2024-06-30 08:47:30 +0000] [714726] [INFO] Booting worker with pid: 714726
+[2024-06-30 08:47:30 +0000] [714727] [INFO] Booting worker with pid: 714727
+[2024-06-30 08:47:30 +0000] [714728] [INFO] Booting worker with pid: 714728
+[2024-06-30 08:49:12 +0000] [714725] [INFO] Handling signal: int
+[2024-06-30 08:49:12 +0000] [714727] [INFO] Worker exiting (pid: 714727)
+[2024-06-30 08:49:12 +0000] [714728] [INFO] Worker exiting (pid: 714728)
+[2024-06-30 08:49:12 +0000] [714726] [INFO] Worker exiting (pid: 714726)
+[2024-06-30 08:49:13 +0000] [714725] [INFO] Shutting down: Master
+[2024-06-30 08:52:29 +0000] [714747] [INFO] Starting gunicorn 22.0.0
+[2024-06-30 08:52:29 +0000] [714747] [INFO] Listening at: http://0.0.0.0:5000 (714747)
+[2024-06-30 08:52:29 +0000] [714747] [INFO] Using worker: sync
+[2024-06-30 08:52:29 +0000] [714748] [INFO] Booting worker with pid: 714748
+[2024-06-30 08:52:29 +0000] [714749] [INFO] Booting worker with pid: 714749
+[2024-06-30 08:52:29 +0000] [714750] [INFO] Booting worker with pid: 714750
+[2024-06-30 09:00:26 +0000] [714747] [INFO] Handling signal: hup
+[2024-06-30 09:00:26 +0000] [714747] [INFO] Hang up: Master
+[2024-06-30 09:00:26 +0000] [714747] [ERROR] Worker (pid:714748) was sent SIGHUP!
+[2024-06-30 09:00:26 +0000] [714747] [ERROR] Worker (pid:714749) was sent SIGHUP!
+[2024-06-30 09:00:26 +0000] [714747] [ERROR] Worker (pid:714750) was sent SIGHUP!
+[2024-06-30 09:00:26 +0000] [714855] [INFO] Booting worker with pid: 714855
+[2024-06-30 09:00:26 +0000] [714856] [INFO] Booting worker with pid: 714856
+[2024-06-30 09:00:26 +0000] [714857] [INFO] Booting worker with pid: 714857
+[2024-06-30 23:32:43 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:714856)
+[2024-06-30 23:32:43 +0000] [714856] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-06-30 23:32:43 +0000] [714856] [INFO] Worker exiting (pid: 714856)
+[2024-06-30 23:32:43 +0000] [720460] [INFO] Booting worker with pid: 720460
+[2024-06-30 23:55:33 +0000] [720460] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-06-30 23:55:33 +0000] [720460] [INFO] Worker exiting (pid: 720460)
+[2024-06-30 23:55:33 +0000] [714747] [ERROR] Worker (pid:720460) exited with code 255
+[2024-06-30 23:55:33 +0000] [714747] [ERROR] Worker (pid:720460) exited with code 255.
+[2024-06-30 23:55:33 +0000] [720544] [INFO] Booting worker with pid: 720544
+[2024-07-01 21:59:39 +0000] [714857] [WARNING] Invalid request from ip=185.170.144.3: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-02 11:12:28 +0000] [714857] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-02 11:12:28 +0000] [714857] [INFO] Worker exiting (pid: 714857)
+[2024-07-02 11:12:29 +0000] [714747] [ERROR] Worker (pid:714857) exited with code 255
+[2024-07-02 11:12:29 +0000] [714747] [ERROR] Worker (pid:714857) exited with code 255.
+[2024-07-02 11:12:29 +0000] [744653] [INFO] Booting worker with pid: 744653
+[2024-07-02 14:09:48 +0000] [744653] [WARNING] Invalid request from ip=139.59.150.139: Invalid HTTP request line: ''
+[2024-07-02 19:08:41 +0000] [720544] [WARNING] Invalid request from ip=94.232.46.148: Invalid HTTP request line: "\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie: mstshash=Domain"
+[2024-07-02 19:08:41 +0000] [720544] [WARNING] Invalid request from ip=94.232.46.148: Invalid HTTP request line: "\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie: mstshash=Domain"
+[2024-07-02 19:08:41 +0000] [720544] [WARNING] Invalid request from ip=94.232.46.148: Invalid HTTP request line: "\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie: mstshash=Domain"
+[2024-07-03 01:57:37 +0000] [744653] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-03 01:57:37 +0000] [744653] [INFO] Worker exiting (pid: 744653)
+[2024-07-03 01:57:38 +0000] [714747] [ERROR] Worker (pid:744653) exited with code 255
+[2024-07-03 01:57:38 +0000] [714747] [ERROR] Worker (pid:744653) exited with code 255.
+[2024-07-03 01:57:38 +0000] [751318] [INFO] Booting worker with pid: 751318
+[2024-07-03 03:44:10 +0000] [720544] [WARNING] Invalid request from ip=134.209.228.96: Invalid HTTP request line: ''
+[2024-07-03 10:35:34 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:714855)
+[2024-07-03 10:35:34 +0000] [714855] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 269, in parse
+    self.get_data(unreader, buf, stop=True)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-03 10:35:34 +0000] [714855] [INFO] Worker exiting (pid: 714855)
+[2024-07-03 10:35:34 +0000] [754446] [INFO] Booting worker with pid: 754446
+[2024-07-03 10:55:25 +0000] [720544] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-03 10:55:25 +0000] [720544] [INFO] Worker exiting (pid: 720544)
+[2024-07-03 10:55:25 +0000] [714747] [ERROR] Worker (pid:720544) exited with code 255
+[2024-07-03 10:55:25 +0000] [714747] [ERROR] Worker (pid:720544) exited with code 255.
+[2024-07-03 10:55:25 +0000] [754532] [INFO] Booting worker with pid: 754532
+[2024-07-03 11:50:59 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:751318)
+[2024-07-03 11:50:59 +0000] [751318] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 269, in parse
+    self.get_data(unreader, buf, stop=True)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-03 11:50:59 +0000] [751318] [INFO] Worker exiting (pid: 751318)
+[2024-07-03 11:50:59 +0000] [755076] [INFO] Booting worker with pid: 755076
+[2024-07-03 23:32:17 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:755076)
+[2024-07-03 23:32:17 +0000] [755076] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-03 23:32:17 +0000] [755076] [INFO] Worker exiting (pid: 755076)
+[2024-07-03 23:32:17 +0000] [759703] [INFO] Booting worker with pid: 759703
+[2024-07-04 14:26:05 +0000] [754532] [WARNING] Invalid request from ip=185.170.144.3: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-04 15:11:19 +0000] [754532] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-04 15:11:19 +0000] [754532] [INFO] Worker exiting (pid: 754532)
+[2024-07-04 15:11:19 +0000] [714747] [ERROR] Worker (pid:754532) exited with code 255
+[2024-07-04 15:11:19 +0000] [714747] [ERROR] Worker (pid:754532) exited with code 255.
+[2024-07-04 15:11:19 +0000] [765813] [INFO] Booting worker with pid: 765813
+[2024-07-04 18:09:26 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:754446)
+[2024-07-04 18:09:26 +0000] [754446] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-04 18:09:26 +0000] [754446] [INFO] Worker exiting (pid: 754446)
+[2024-07-04 18:09:26 +0000] [766618] [INFO] Booting worker with pid: 766618
+[2024-07-05 02:48:27 +0000] [759703] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-05 02:48:27 +0000] [759703] [INFO] Worker exiting (pid: 759703)
+[2024-07-05 02:48:28 +0000] [714747] [ERROR] Worker (pid:759703) exited with code 255
+[2024-07-05 02:48:28 +0000] [714747] [ERROR] Worker (pid:759703) exited with code 255.
+[2024-07-05 02:48:28 +0000] [769096] [INFO] Booting worker with pid: 769096
+[2024-07-05 14:42:04 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:765813)
+[2024-07-05 14:42:04 +0000] [765813] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-05 14:42:04 +0000] [765813] [INFO] Worker exiting (pid: 765813)
+[2024-07-05 14:42:04 +0000] [774423] [INFO] Booting worker with pid: 774423
+[2024-07-05 14:42:34 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:769096)
+[2024-07-05 14:42:34 +0000] [769096] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-05 14:42:34 +0000] [769096] [INFO] Worker exiting (pid: 769096)
+[2024-07-05 14:42:34 +0000] [774427] [INFO] Booting worker with pid: 774427
+[2024-07-05 14:54:51 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:774423)
+[2024-07-05 14:54:51 +0000] [774423] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-05 14:54:51 +0000] [774423] [INFO] Worker exiting (pid: 774423)
+[2024-07-05 14:54:52 +0000] [774469] [INFO] Booting worker with pid: 774469
+[2024-07-05 14:55:22 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:774427)
+[2024-07-05 14:55:22 +0000] [774427] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-05 14:55:22 +0000] [774427] [INFO] Worker exiting (pid: 774427)
+[2024-07-05 14:55:22 +0000] [774478] [INFO] Booting worker with pid: 774478
+[2024-07-05 14:58:20 +0000] [774478] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-05 14:58:20 +0000] [774478] [INFO] Worker exiting (pid: 774478)
+[2024-07-05 14:58:20 +0000] [714747] [ERROR] Worker (pid:774478) exited with code 255
+[2024-07-05 14:58:20 +0000] [714747] [ERROR] Worker (pid:774478) exited with code 255.
+[2024-07-05 14:58:20 +0000] [774489] [INFO] Booting worker with pid: 774489
+[2024-07-05 18:27:44 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:766618)
+[2024-07-05 18:27:44 +0000] [766618] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-05 18:27:44 +0000] [766618] [INFO] Worker exiting (pid: 766618)
+[2024-07-05 18:27:44 +0000] [776260] [INFO] Booting worker with pid: 776260
+[2024-07-05 18:28:15 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:774489)
+[2024-07-05 18:28:15 +0000] [774489] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-05 18:28:15 +0000] [774489] [INFO] Worker exiting (pid: 774489)
+[2024-07-05 18:28:15 +0000] [776261] [INFO] Booting worker with pid: 776261
+[2024-07-05 18:36:44 +0000] [776261] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-05 18:36:44 +0000] [776261] [INFO] Worker exiting (pid: 776261)
+[2024-07-05 18:36:44 +0000] [714747] [ERROR] Worker (pid:776261) exited with code 255
+[2024-07-05 18:36:44 +0000] [714747] [ERROR] Worker (pid:776261) exited with code 255.
+[2024-07-05 18:36:44 +0000] [776274] [INFO] Booting worker with pid: 776274
+[2024-07-05 23:31:53 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:774469)
+[2024-07-05 23:31:53 +0000] [774469] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-05 23:31:53 +0000] [774469] [INFO] Worker exiting (pid: 774469)
+[2024-07-05 23:31:53 +0000] [778057] [INFO] Booting worker with pid: 778057
+[2024-07-06 01:33:50 +0000] [776260] [WARNING] Invalid request from ip=91.191.209.206: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-06 04:13:29 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:778057)
+[2024-07-06 04:13:29 +0000] [778057] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-06 04:13:29 +0000] [778057] [INFO] Worker exiting (pid: 778057)
+[2024-07-06 04:13:29 +0000] [780111] [INFO] Booting worker with pid: 780111
+[2024-07-06 04:59:31 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:776274)
+[2024-07-06 04:59:31 +0000] [776274] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-06 04:59:31 +0000] [776274] [INFO] Worker exiting (pid: 776274)
+[2024-07-06 04:59:31 +0000] [781899] [INFO] Booting worker with pid: 781899
+[2024-07-06 07:28:40 +0000] [781899] [WARNING] Invalid request from ip=91.191.209.206: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-06 21:54:34 +0000] [781899] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-06 21:54:34 +0000] [781899] [INFO] Worker exiting (pid: 781899)
+[2024-07-06 21:54:34 +0000] [714747] [ERROR] Worker (pid:781899) exited with code 255
+[2024-07-06 21:54:34 +0000] [714747] [ERROR] Worker (pid:781899) exited with code 255.
+[2024-07-06 21:54:34 +0000] [789912] [INFO] Booting worker with pid: 789912
+[2024-07-06 23:31:45 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:789912)
+[2024-07-06 23:31:45 +0000] [789912] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-06 23:31:45 +0000] [789912] [INFO] Worker exiting (pid: 789912)
+[2024-07-06 23:31:45 +0000] [790473] [INFO] Booting worker with pid: 790473
+[2024-07-07 10:32:36 +0000] [780111] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-07 10:32:36 +0000] [780111] [INFO] Worker exiting (pid: 780111)
+[2024-07-07 10:32:36 +0000] [714747] [ERROR] Worker (pid:780111) exited with code 255
+[2024-07-07 10:32:36 +0000] [714747] [ERROR] Worker (pid:780111) exited with code 255.
+[2024-07-07 10:32:36 +0000] [794440] [INFO] Booting worker with pid: 794440
+[2024-07-07 18:09:58 +0000] [794440] [WARNING] Invalid request from ip=152.32.205.206: Invalid HTTP request line: ''
+[2024-07-08 04:47:29 +0000] [790473] [WARNING] Invalid request from ip=178.79.139.171: Invalid HTTP request line: ''
+[2024-07-08 04:47:30 +0000] [794440] [WARNING] Invalid request from ip=178.79.139.171: Invalid HTTP Version: 'RTSP/1.0'
+[2024-07-08 04:47:50 +0000] [794440] [WARNING] Invalid request from ip=178.79.139.171: Invalid HTTP request line: 'HELP'
+[2024-07-08 04:48:10 +0000] [794440] [WARNING] Invalid request from ip=178.79.139.171: Invalid HTTP Version: 'SIP/2.0'
+[2024-07-08 06:20:30 +0000] [794440] [WARNING] Invalid request from ip=161.35.21.143: Invalid HTTP request line: ''
+[2024-07-08 09:14:20 +0000] [794440] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-08 09:14:20 +0000] [794440] [INFO] Worker exiting (pid: 794440)
+[2024-07-08 09:14:20 +0000] [714747] [ERROR] Worker (pid:794440) exited with code 255
+[2024-07-08 09:14:20 +0000] [714747] [ERROR] Worker (pid:794440) exited with code 255.
+[2024-07-08 09:14:20 +0000] [805592] [INFO] Booting worker with pid: 805592
+[2024-07-08 16:53:53 +0000] [790473] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-08 16:53:53 +0000] [790473] [INFO] Worker exiting (pid: 790473)
+[2024-07-08 16:53:54 +0000] [714747] [ERROR] Worker (pid:790473) exited with code 255
+[2024-07-08 16:53:54 +0000] [714747] [ERROR] Worker (pid:790473) exited with code 255.
+[2024-07-08 16:53:54 +0000] [810047] [INFO] Booting worker with pid: 810047
+[2024-07-08 23:20:41 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:805592)
+[2024-07-08 23:20:41 +0000] [805592] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 269, in parse
+    self.get_data(unreader, buf, stop=True)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-08 23:20:41 +0000] [805592] [INFO] Worker exiting (pid: 805592)
+[2024-07-08 23:20:42 +0000] [812225] [INFO] Booting worker with pid: 812225
+[2024-07-08 23:31:48 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:776260)
+[2024-07-08 23:31:48 +0000] [776260] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-08 23:31:48 +0000] [776260] [INFO] Worker exiting (pid: 776260)
+[2024-07-08 23:31:49 +0000] [812277] [INFO] Booting worker with pid: 812277
+[2024-07-10 01:43:21 +0000] [812225] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-10 01:43:21 +0000] [812225] [INFO] Worker exiting (pid: 812225)
+[2024-07-10 01:43:21 +0000] [714747] [ERROR] Worker (pid:812225) exited with code 255
+[2024-07-10 01:43:21 +0000] [714747] [ERROR] Worker (pid:812225) exited with code 255.
+[2024-07-10 01:43:21 +0000] [824837] [INFO] Booting worker with pid: 824837
+[2024-07-10 23:32:30 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:810047)
+[2024-07-10 23:32:30 +0000] [810047] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-10 23:32:31 +0000] [810047] [INFO] Worker exiting (pid: 810047)
+[2024-07-10 23:32:31 +0000] [833790] [INFO] Booting worker with pid: 833790
+[2024-07-11 13:01:54 +0000] [824837] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-11 13:01:54 +0000] [824837] [INFO] Worker exiting (pid: 824837)
+[2024-07-11 13:01:54 +0000] [714747] [ERROR] Worker (pid:824837) exited with code 255
+[2024-07-11 13:01:54 +0000] [714747] [ERROR] Worker (pid:824837) exited with code 255.
+[2024-07-11 13:01:54 +0000] [839719] [INFO] Booting worker with pid: 839719
+[2024-07-11 13:05:46 +0000] [812277] [WARNING] Invalid request from ip=87.251.67.66: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-11 20:24:17 +0000] [839719] [WARNING] Invalid request from ip=164.90.209.81: Invalid HTTP request line: ''
+[2024-07-11 23:10:55 +0000] [833790] [WARNING] Invalid request from ip=68.183.215.151: Invalid HTTP request line: ''
+[2024-07-11 23:31:58 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:839719)
+[2024-07-11 23:31:58 +0000] [839719] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-11 23:31:58 +0000] [839719] [INFO] Worker exiting (pid: 839719)
+[2024-07-11 23:31:58 +0000] [844842] [INFO] Booting worker with pid: 844842
+[2024-07-12 00:55:34 +0000] [812277] [WARNING] Invalid request from ip=209.38.210.228: Invalid HTTP request line: ''
+[2024-07-12 04:00:10 +0000] [833790] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-12 04:00:10 +0000] [833790] [INFO] Worker exiting (pid: 833790)
+[2024-07-12 04:00:11 +0000] [714747] [ERROR] Worker (pid:833790) exited with code 255
+[2024-07-12 04:00:11 +0000] [714747] [ERROR] Worker (pid:833790) exited with code 255.
+[2024-07-12 04:00:11 +0000] [846413] [INFO] Booting worker with pid: 846413
+[2024-07-12 06:12:34 +0000] [844842] [WARNING] Invalid request from ip=143.42.206.215: Invalid HTTP request line: ''
+[2024-07-12 06:12:34 +0000] [846413] [WARNING] Invalid request from ip=143.42.206.215: Invalid HTTP Version: 'RTSP/1.0'
+[2024-07-12 06:12:54 +0000] [846413] [WARNING] Invalid request from ip=143.42.206.215: Invalid HTTP request line: 'HELP'
+[2024-07-12 06:13:14 +0000] [846413] [WARNING] Invalid request from ip=143.42.206.215: Invalid HTTP Version: 'SIP/2.0'
+[2024-07-12 10:56:03 +0000] [812277] [WARNING] Invalid request from ip=185.170.144.3: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-12 18:00:48 +0000] [844842] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-12 18:00:49 +0000] [844842] [INFO] Worker exiting (pid: 844842)
+[2024-07-12 18:00:49 +0000] [714747] [ERROR] Worker (pid:844842) exited with code 255
+[2024-07-12 18:00:49 +0000] [714747] [ERROR] Worker (pid:844842) exited with code 255.
+[2024-07-12 18:00:49 +0000] [857187] [INFO] Booting worker with pid: 857187
+[2024-07-13 06:05:39 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:846413)
+[2024-07-13 06:05:39 +0000] [846413] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-13 06:05:39 +0000] [846413] [INFO] Worker exiting (pid: 846413)
+[2024-07-13 06:05:39 +0000] [861545] [INFO] Booting worker with pid: 861545
+[2024-07-13 06:29:32 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:861545)
+[2024-07-13 06:29:32 +0000] [861545] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-13 06:29:32 +0000] [861545] [INFO] Worker exiting (pid: 861545)
+[2024-07-13 06:29:32 +0000] [862212] [INFO] Booting worker with pid: 862212
+[2024-07-13 06:43:59 +0000] [812277] [WARNING] Invalid request from ip=179.60.147.144: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-13 09:39:36 +0000] [857187] [WARNING] Invalid request from ip=31.43.185.3: Invalid HTTP request line: "\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie: mstshash=Domain"
+[2024-07-13 09:39:36 +0000] [862212] [WARNING] Invalid request from ip=31.43.185.3: Invalid HTTP request line: "\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie: mstshash=Domain"
+[2024-07-13 09:39:36 +0000] [812277] [WARNING] Invalid request from ip=31.43.185.3: Invalid HTTP request line: "\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie: mstshash=Domain"
+[2024-07-13 11:41:35 +0000] [812277] [WARNING] Invalid request from ip=83.97.73.191: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-13 17:38:38 +0000] [857187] [WARNING] Invalid request from ip=24.144.112.7: Invalid HTTP request line: ''
+[2024-07-13 17:39:19 +0000] [812277] [WARNING] Invalid request from ip=83.97.73.191: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-13 22:21:44 +0000] [857187] [WARNING] Invalid request from ip=194.26.135.120: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-13 22:55:49 +0000] [862212] [WARNING] Invalid request from ip=64.226.89.44: Invalid HTTP request line: ''
+[2024-07-13 23:32:27 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:862212)
+[2024-07-13 23:32:27 +0000] [862212] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-13 23:32:27 +0000] [862212] [INFO] Worker exiting (pid: 862212)
+[2024-07-13 23:32:27 +0000] [869233] [INFO] Booting worker with pid: 869233
+[2024-07-13 23:42:08 +0000] [857187] [WARNING] Invalid request from ip=134.122.84.164: Invalid HTTP request line: ''
+[2024-07-14 00:12:56 +0000] [869233] [WARNING] Invalid request from ip=64.225.105.114: Invalid HTTP request line: ''
+[2024-07-14 01:21:42 +0000] [857187] [WARNING] Invalid request from ip=83.97.73.191: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-14 03:04:27 +0000] [812277] [WARNING] Invalid request from ip=194.26.135.120: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-14 11:15:08 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:869233)
+[2024-07-14 11:15:08 +0000] [869233] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 269, in parse
+    self.get_data(unreader, buf, stop=True)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-14 11:15:08 +0000] [869233] [INFO] Worker exiting (pid: 869233)
+[2024-07-14 11:15:08 +0000] [875468] [INFO] Booting worker with pid: 875468
+[2024-07-14 11:51:53 +0000] [875468] [WARNING] Invalid request from ip=194.26.135.120: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-14 14:16:11 +0000] [812277] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-14 14:16:11 +0000] [812277] [INFO] Worker exiting (pid: 812277)
+[2024-07-14 14:16:12 +0000] [714747] [ERROR] Worker (pid:812277) exited with code 255
+[2024-07-14 14:16:12 +0000] [714747] [ERROR] Worker (pid:812277) exited with code 255.
+[2024-07-14 14:16:12 +0000] [877195] [INFO] Booting worker with pid: 877195
+[2024-07-14 17:17:47 +0000] [875468] [WARNING] Invalid request from ip=194.26.135.120: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-14 18:03:28 +0000] [875468] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-14 18:03:28 +0000] [875468] [INFO] Worker exiting (pid: 875468)
+[2024-07-14 18:03:28 +0000] [714747] [ERROR] Worker (pid:875468) exited with code 255
+[2024-07-14 18:03:28 +0000] [714747] [ERROR] Worker (pid:875468) exited with code 255.
+[2024-07-14 18:03:28 +0000] [878446] [INFO] Booting worker with pid: 878446
+[2024-07-14 20:35:14 +0000] [878446] [WARNING] Invalid request from ip=194.169.175.54: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-14 22:55:58 +0000] [857187] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-14 22:55:58 +0000] [857187] [INFO] Worker exiting (pid: 857187)
+[2024-07-14 22:55:59 +0000] [714747] [ERROR] Worker (pid:857187) exited with code 255
+[2024-07-14 22:55:59 +0000] [714747] [ERROR] Worker (pid:857187) exited with code 255.
+[2024-07-14 22:55:59 +0000] [880828] [INFO] Booting worker with pid: 880828
+[2024-07-14 23:32:00 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:877195)
+[2024-07-14 23:32:00 +0000] [877195] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-14 23:32:00 +0000] [877195] [INFO] Worker exiting (pid: 877195)
+[2024-07-14 23:32:00 +0000] [881151] [INFO] Booting worker with pid: 881151
+[2024-07-15 01:19:14 +0000] [878446] [WARNING] Invalid request from ip=194.169.175.54: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-15 05:54:46 +0000] [881151] [WARNING] Invalid request from ip=152.89.198.42: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-15 19:29:10 +0000] [880828] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-15 19:29:10 +0000] [880828] [INFO] Worker exiting (pid: 880828)
+[2024-07-15 19:29:10 +0000] [714747] [ERROR] Worker (pid:880828) exited with code 255
+[2024-07-15 19:29:10 +0000] [714747] [ERROR] Worker (pid:880828) exited with code 255.
+[2024-07-15 19:29:10 +0000] [888936] [INFO] Booting worker with pid: 888936
+[2024-07-15 23:31:59 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:881151)
+[2024-07-15 23:31:59 +0000] [881151] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-15 23:31:59 +0000] [881151] [INFO] Worker exiting (pid: 881151)
+[2024-07-15 23:31:59 +0000] [890152] [INFO] Booting worker with pid: 890152
+[2024-07-16 06:31:03 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:890152)
+[2024-07-16 06:31:03 +0000] [890152] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-16 06:31:03 +0000] [890152] [INFO] Worker exiting (pid: 890152)
+[2024-07-16 06:31:04 +0000] [896233] [INFO] Booting worker with pid: 896233
+[2024-07-16 07:37:06 +0000] [878446] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-16 07:37:06 +0000] [878446] [INFO] Worker exiting (pid: 878446)
+[2024-07-16 07:37:07 +0000] [714747] [ERROR] Worker (pid:878446) exited with code 255
+[2024-07-16 07:37:07 +0000] [714747] [ERROR] Worker (pid:878446) exited with code 255.
+[2024-07-16 07:37:07 +0000] [897290] [INFO] Booting worker with pid: 897290
+[2024-07-17 02:35:10 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:888936)
+[2024-07-17 02:35:13 +0000] [714747] [ERROR] Worker (pid:888936) was sent SIGKILL! Perhaps out of memory?
+[2024-07-17 02:35:13 +0000] [921747] [INFO] Booting worker with pid: 921747
+[2024-07-17 03:21:10 +0000] [896233] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-17 03:21:10 +0000] [896233] [INFO] Worker exiting (pid: 896233)
+[2024-07-17 03:21:10 +0000] [714747] [ERROR] Worker (pid:896233) exited with code 255
+[2024-07-17 03:21:10 +0000] [714747] [ERROR] Worker (pid:896233) exited with code 255.
+[2024-07-17 03:21:10 +0000] [922856] [INFO] Booting worker with pid: 922856
+[2024-07-17 03:55:58 +0000] [897290] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-17 03:55:58 +0000] [897290] [INFO] Worker exiting (pid: 897290)
+[2024-07-17 03:55:58 +0000] [714747] [ERROR] Worker (pid:897290) exited with code 255
+[2024-07-17 03:55:58 +0000] [714747] [ERROR] Worker (pid:897290) exited with code 255.
+[2024-07-17 03:55:58 +0000] [923809] [INFO] Booting worker with pid: 923809
+[2024-07-17 19:02:31 +0000] [922856] [WARNING] Invalid request from ip=64.226.127.162: Invalid HTTP request line: ''
+[2024-07-17 23:32:30 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:922856)
+[2024-07-17 23:32:30 +0000] [922856] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-17 23:32:30 +0000] [922856] [INFO] Worker exiting (pid: 922856)
+[2024-07-17 23:32:31 +0000] [960180] [INFO] Booting worker with pid: 960180
+[2024-07-18 22:08:11 +0000] [921747] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-18 22:08:11 +0000] [921747] [INFO] Worker exiting (pid: 921747)
+[2024-07-18 22:08:12 +0000] [714747] [ERROR] Worker (pid:921747) exited with code 255
+[2024-07-18 22:08:12 +0000] [714747] [ERROR] Worker (pid:921747) exited with code 255.
+[2024-07-18 22:08:12 +0000] [998795] [INFO] Booting worker with pid: 998795
+[2024-07-18 22:19:11 +0000] [960180] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-18 22:19:11 +0000] [960180] [INFO] Worker exiting (pid: 960180)
+[2024-07-18 22:19:12 +0000] [714747] [ERROR] Worker (pid:960180) exited with code 255
+[2024-07-18 22:19:12 +0000] [714747] [ERROR] Worker (pid:960180) exited with code 255.
+[2024-07-18 22:19:12 +0000] [999085] [INFO] Booting worker with pid: 999085
+[2024-07-18 23:45:48 +0000] [998795] [WARNING] Invalid request from ip=118.194.251.145: Invalid HTTP request line: ''
+[2024-07-19 11:35:29 +0000] [999085] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-19 11:35:29 +0000] [999085] [INFO] Worker exiting (pid: 999085)
+[2024-07-19 11:35:30 +0000] [714747] [ERROR] Worker (pid:999085) exited with code 255
+[2024-07-19 11:35:30 +0000] [714747] [ERROR] Worker (pid:999085) exited with code 255.
+[2024-07-19 11:35:30 +0000] [1020812] [INFO] Booting worker with pid: 1020812
+[2024-07-19 17:41:35 +0000] [1020812] [WARNING] Invalid request from ip=91.191.209.202: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-19 22:30:20 +0000] [923809] [WARNING] Invalid request from ip=185.170.144.3: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-19 23:03:38 +0000] [1020812] [WARNING] Invalid request from ip=91.191.209.202: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+[2024-07-20 06:00:28 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:923809)
+[2024-07-20 06:00:28 +0000] [923809] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-20 06:00:28 +0000] [923809] [INFO] Worker exiting (pid: 923809)
+[2024-07-20 06:00:29 +0000] [1054832] [INFO] Booting worker with pid: 1054832
+[2024-07-20 07:03:13 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:1020812)
+[2024-07-20 07:03:13 +0000] [1020812] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-20 07:03:13 +0000] [1020812] [INFO] Worker exiting (pid: 1020812)
+[2024-07-20 07:03:14 +0000] [1056399] [INFO] Booting worker with pid: 1056399
+[2024-07-20 12:27:56 +0000] [1054832] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-20 12:27:56 +0000] [1054832] [INFO] Worker exiting (pid: 1054832)
+[2024-07-20 12:27:57 +0000] [714747] [ERROR] Worker (pid:1054832) exited with code 255
+[2024-07-20 12:27:57 +0000] [714747] [ERROR] Worker (pid:1054832) exited with code 255.
+[2024-07-20 12:27:57 +0000] [1065578] [INFO] Booting worker with pid: 1065578
+[2024-07-21 09:04:03 +0000] [1056399] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-21 09:04:03 +0000] [1056399] [INFO] Worker exiting (pid: 1056399)
+[2024-07-21 09:04:04 +0000] [714747] [ERROR] Worker (pid:1056399) exited with code 255
+[2024-07-21 09:04:04 +0000] [714747] [ERROR] Worker (pid:1056399) exited with code 255.
+[2024-07-21 09:04:04 +0000] [1100342] [INFO] Booting worker with pid: 1100342
+[2024-07-21 18:40:58 +0000] [1065578] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-07-21 18:40:58 +0000] [1065578] [INFO] Worker exiting (pid: 1065578)
+[2024-07-21 18:40:59 +0000] [714747] [ERROR] Worker (pid:1065578) exited with code 255
+[2024-07-21 18:40:59 +0000] [714747] [ERROR] Worker (pid:1065578) exited with code 255.
+[2024-07-21 18:40:59 +0000] [1111358] [INFO] Booting worker with pid: 1111358
+[2024-07-22 03:02:20 +0000] [714747] [CRITICAL] WORKER TIMEOUT (pid:998795)
+[2024-07-22 03:02:20 +0000] [998795] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/myblog/myenv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-07-22 03:02:20 +0000] [998795] [INFO] Worker exiting (pid: 998795)
+[2024-07-22 03:02:21 +0000] [1123141] [INFO] Booting worker with pid: 1123141
